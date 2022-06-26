@@ -27,4 +27,4 @@ else {
 }
 
 //display the result of the calculator
-window.alert("Results is" + results);
+window.alert("Results is " + results);
